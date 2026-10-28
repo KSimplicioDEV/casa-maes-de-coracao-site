@@ -58,13 +58,6 @@ O deploy foi pensado para o Netlify (arraste a pasta ou conecte o repositório).
 
 O público do site inclui mulheres em situação de vulnerabilidade, então a curadoria das imagens tentou evitar close de crianças e de pessoas atendidas. Legendas descrevem só o que se vê nas fotos, sem afirmar datas ou autoria dos eventos. A publicação de imagens com pessoas depende de autorização da ONG.
 
-## Limitações e próximos passos
-
-- Trocar o logo provisório pelo arquivo oficial e usar fotos em maior resolução (as extraídas do PDF têm cerca de 500 px).
-- Incluir chave Pix ou outra forma de doação, e um e-mail institucional.
-- Adicionar seções de transparência, parceiros e notícias quando houver conteúdo.
-- Testes em outros navegadores e dispositivos, e uma auditoria de acessibilidade e desempenho (Lighthouse).
-- Pausa automática dos vídeos ao trocar de slide.
 
 ## Autor
 
